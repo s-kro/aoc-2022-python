@@ -1,5 +1,8 @@
 #! /usr/bin/python3
 
+
+# Advent of Code Day 1 Part 1
+
 f = open("aoc_2022-1.dat")
 
 tc = 0 # total calories
